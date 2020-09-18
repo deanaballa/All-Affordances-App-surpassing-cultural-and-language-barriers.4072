@@ -1,0 +1,7 @@
+server/node_modules/
+server/public/*
+webapp/node_modules/
+webapp/dist/
+.vscode
+.idea
+server/dist/webapp
